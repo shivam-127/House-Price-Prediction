@@ -2,7 +2,7 @@
 
 This is a **Streamlit-based web app** that predicts house prices based on square footage using a **Linear Regression model** trained on synthetic data. It's ideal for understanding how size impacts pricing and for demonstrating basic regression modeling.
 
-🔗 **Live Demo**: [Click to Launch App](https://house-price-prediction-model-project.streamlit.app/)
+🔗 **Live Demo**: [Click to Launch App](https://urban-adventure-jjq5gppgjgj7fp595-8501.app.github.dev/)
 
 ---
 
